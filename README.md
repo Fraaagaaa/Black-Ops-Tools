@@ -1,6 +1,6 @@
 # Black Ops Tools
 
-- [Download Plutonium (WAW, BO1 and BO2](https://cdn.plutonium.pw/updater/plutonium.exe)
+- [Download Plutonium (WAW, BO1 and BO2)](https://cdn.plutonium.pw/updater/plutonium.exe)
 - [Download B2OP (BO2)](https://github.com/B2ORG/T6-B2OP-PATCH/releases/latest/download/b2op-plutonium.gsc)
 - [Download DLC Unlocker (BO1)](https://github.com/Fraaagaaa/Black-Ops-Tools/releases/latest/download/DLC.unlocker.rar)
 
